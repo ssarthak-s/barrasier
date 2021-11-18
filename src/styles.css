@@ -1,6 +1,6 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+  display: flex;
 }
 
 body {
@@ -31,4 +31,11 @@ button {
   background: content-box;
   color: #ffffffa6;
   border: none;
+}
+
+.menuContainer{
+  width: 10%
+}
+.projectOptions{
+  margin-left: 220px;
 }
